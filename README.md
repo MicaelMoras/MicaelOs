@@ -1,4 +1,4 @@
-# Mikael OS
+# Micael OS
 
 **A Local-First Personal Organization System**
 
